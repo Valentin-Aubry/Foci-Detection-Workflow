@@ -1,2 +1,3 @@
-# Cellpose_Internship
-Cellpose Internship
+# Foci Detection Workflow
+
+TBA
